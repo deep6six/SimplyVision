@@ -66,3 +66,14 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# misc files
+footage/
+
+# IDE
+.venv/
+.idea/
+
+# generated
+runs/
+*.pt
